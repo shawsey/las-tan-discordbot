@@ -1,4 +1,16 @@
+# LAS TAN DISCORDBOT
+
+The bot is adapted and customized from the Idiot's Guide Community Doscord.js bot. 
+Most setup can be readup on their website when it comes to adding into Discord, and 
+if any questions are left unanswered you can follow the yellow brick road to StacksOverflow. 
+
+Below is the README from IG Community's Guide Bot, credit to them where credit is due for making creating a bot simple and straight forward. 
+
+---
+---
+---
 # Guide Bot
+
 An example of a Discord.js Bot Handler. Updated and Maintained by the Idiot's Guide Community.
 
 Ages ago, Guide Bot was actually a little bot I had on the official discord.js server.
@@ -44,3 +56,7 @@ To add the bot to your guild, you have to get an oauth link for it.
 
 You can use this site to help you generate a full OAuth Link, which includes a calculator for the permissions:
 [https://finitereality.github.io/permissions-calculator/?v=0](https://finitereality.github.io/permissions-calculator/?v=0)
+
+---
+---
+---
