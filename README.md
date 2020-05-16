@@ -1,4 +1,4 @@
-# LAS TAN DISCORDBOT
+
 
 The bot is adapted and customized from the Idiot's Guide Community Doscord.js bot. 
 Most setup can be readup on their website when it comes to adding into Discord, and 
